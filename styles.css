@@ -238,7 +238,6 @@ body{
   width:min(720px, 100%);
   height:auto;
   display:block;
-  transform: rotate(-10deg);
   transform-origin: 60% 60%;
   filter: drop-shadow(0 18px 0 rgba(0,0,0,.06));
 }
