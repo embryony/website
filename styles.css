@@ -323,7 +323,7 @@ body{
   .login{ padding-left: 0; }
   .device{ padding-right: 0; }
   .device__shadow{ transform: translate(0, 140px); width: 420px; }
-  .device__img{ width: min(720px, 92vw); }
+  .device__img{ transform: rotate(0deg); width: min(720px, 92vw); }
   .footer__inner{
     grid-template-columns: 1fr;
     gap: 28px;
